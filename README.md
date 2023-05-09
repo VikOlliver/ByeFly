@@ -1,7 +1,7 @@
 # ByeFly
 A pseudo-random flyswatter using two servos and an Arduino
 
-Created at Fab Fest Bali in 2022 at a table in the Colab Cafe as a demonstration project using simple, pre-plugged Arduino components and programmed using ArduinoDroid on an Android phone.
+Created at Fab Fest Bali in 2022 at a table in the Colab Cafe as a demonstration project using simple, pre-plugged Arduino components and programmed using ArduinoDroid on an Android phone. A construction video can be found on https://playeur.com/v/qmpu7X6KRga
 
 The two servos, fitted with horns, are run with their axes at right angles to each other. So the first (base) servo has a shaft pointing vertial. The second servo body is placed flat against the horn on the first servo such that its drive shaft axis is horizontal.
 
